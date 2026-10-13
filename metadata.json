@@ -1,0 +1,6 @@
+{
+  "name": "Zam Zam Medicals",
+  "description": "Zam Zam Medicals is a trusted neighbourhood pharmacy at 77, Parthasarathy Road, Balaji Nagar, Pallikaranai, Chennai – 600100. Call +91 89408 85500. Open 8:30 AM to 10:30 PM daily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
